@@ -2,7 +2,7 @@
 
 #### useState
 
-1. Birthday Reminder || [Live Demo](https://react-projects-1-birthday-reminder.netlify.app/)
+1. Birthday Reminder | [Live Demo](https://react-projects-1-birthday-reminder.netlify.app/)
 
 #### useEffect and Conditional Rendering
 
