@@ -7,7 +7,7 @@
 #### useEffect and Conditional Rendering
 
 2. Tours | [Live Demo](https://react-projects-2-tours.netlify.app/)
-3. Reviews
+3. Reviews | [Live Demo](https://react-projects-3-reviews.netlify.app/)
 4. Questions
 5. Menu
 6. Tabs
