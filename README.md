@@ -11,7 +11,7 @@
 4. Questions | [Live Demo](https://react-projects-4-accordion.netlify.app/)
 5. Menu | [Live Demo](https://react-projects-5-menu.netlify.app/)
 6. Tabs | [Live Demo](https://react-projects-6-tabs.netlify.app/)
-7. Slider
+7. Slider | [Live Demo](https://react-projects-7-slider.netlify.app/)
 
 #### Forms
 
