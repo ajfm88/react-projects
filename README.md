@@ -17,7 +17,7 @@
 
 8. Lorem Ipsum Generator | [Live Demo](https://react-projects-8-lorem-ipsum-generator.netlify.app/)
 9. Color Shades Generator | [Live Demo](https://react-projects-9-color-generator.netlify.app/)
-10. Grocery Bud
+10. Grocery Bud | [Live Demo](https://react-projects-10-grocery-bud.netlify.app/)
 
 #### useRef
 
