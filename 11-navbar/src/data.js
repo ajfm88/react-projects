@@ -31,17 +31,17 @@ export const links = [
 export const social = [
   {
     id: 1,
-    url: 'https://www.twitter.com',
+    url: 'https://www.facebook.com/ajfm88',
     icon: <FaFacebook />,
   },
   {
     id: 2,
-    url: 'https://www.twitter.com',
+    url: 'https://www.twitter.com/ajfm88',
     icon: <FaTwitter />,
   },
   {
     id: 3,
-    url: 'https://www.twitter.com',
+    url: 'https://www.linkedin.com/in/ajfm88',
     icon: <FaLinkedin />,
   },
   {
