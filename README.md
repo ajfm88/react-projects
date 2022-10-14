@@ -26,7 +26,7 @@
 #### useContext
 
 12. Modal And Sidebar | [Live Demo](https://react-projects-12-sidebar-modal.netlify.app/)
-13. Stripe Submenus
+13. Stripe Submenus | [Live Demo](https://react-projects-13-stripe-submenus.netlify.app/)
 
 #### useReducer and useContext
 
