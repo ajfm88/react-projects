@@ -17,18 +17,22 @@ const AppProvider = ({ children }) => {
   const clearCart = () => {
     dispatch({ type: 'CLEAR_CART' });
   };
+  const remove = (id) => {
+    dispatch({ type: 'REMOVE', payload: id });
+  };
   return (
     <AppContext.Provider
       value={{
         ...state,
         clearCart,
+        remove,
       }}
     >
       {children}
     </AppContext.Provider>
   );
 };
-// make sure use
+// make sure to use
 export const useGlobalContext = () => {
   return useContext(AppContext);
 };
