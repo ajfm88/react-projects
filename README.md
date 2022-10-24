@@ -1,17 +1,17 @@
 # React Projects
 
 #### useState
-
-1. Birthday Reminder | [Live Demo](https://react-projects-1-birthday-reminder.netlify.app/)
+| :-: | ---------------------------- | ------------------------------------------------ |
+| 01  | [Birthday Reminder](https://github.com/ajfm88/react-projects/tree/main/01-birthday-reminder) | [Live Demo](https://react-projects-1-birthday-reminder.netlify.app/)|
 
 #### useEffect and Conditional Rendering
 
-2. Tours | [Live Demo](https://react-projects-2-tours.netlify.app/)
-3. Reviews | [Live Demo](https://react-projects-3-reviews.netlify.app/)
-4. Questions | [Live Demo](https://react-projects-4-accordion.netlify.app/)
-5. Menu | [Live Demo](https://react-projects-5-menu.netlify.app/)
-6. Tabs | [Live Demo](https://react-projects-6-tabs.netlify.app/)
-7. Slider | [Live Demo](https://react-projects-7-slider.netlify.app/)
+| 02  | [Tours](https://github.com/ajfm88/react-projects/tree/main/02-tours) | [Live Demo](https://react-projects-2-tours.netlify.app/)|
+| 03  | [[Reviews](https://github.com/ajfm88/react-projects/tree/main/03-reviews) | [Live Demo](https://react-projects-3-reviews.netlify.app/)|
+| 04  | [Accordion](https://github.com/ajfm88/react-projects/tree/main/04-accordion) | [Live Demo](https://react-projects-4-accordion.netlify.app/)|
+| 05  | [Menu](https://github.com/ajfm88/react-projects/tree/main/05-menu) | [Live Demo](https://react-projects-5-menu.netlify.app/)|
+| 06  | [Tabs](https://github.com/ajfm88/react-projects/tree/main/06-tabs) | [Live Demo](https://react-projects-6-tabs.netlify.app/)|
+| 07  | [Slider](https://github.com/ajfm88/react-projects/tree/main/07-slider) | [Live Demo](https://react-projects-7-slider.netlify.app/)|
 
 #### Forms
 
